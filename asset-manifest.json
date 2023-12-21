@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/daangnmarket/static/css/main.29b0b3ed.css",
-    "main.js": "/daangnmarket/static/js/main.421305ae.js",
+    "main.js": "/daangnmarket/static/js/main.1834620e.js",
     "static/js/787.04bc8705.chunk.js": "/daangnmarket/static/js/787.04bc8705.chunk.js",
     "static/media/banner4.png": "/daangnmarket/static/media/banner4.e68d1c9ca7ec9a2f47e2.png",
     "static/media/banner2.png": "/daangnmarket/static/media/banner2.56bad504b5f68be37153.png",
@@ -11,11 +11,11 @@
     "static/media/redux.cjs": "/daangnmarket/static/media/redux.f6cd7db3b857b93d3bca.cjs",
     "index.html": "/daangnmarket/index.html",
     "main.29b0b3ed.css.map": "/daangnmarket/static/css/main.29b0b3ed.css.map",
-    "main.421305ae.js.map": "/daangnmarket/static/js/main.421305ae.js.map",
+    "main.1834620e.js.map": "/daangnmarket/static/js/main.1834620e.js.map",
     "787.04bc8705.chunk.js.map": "/daangnmarket/static/js/787.04bc8705.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29b0b3ed.css",
-    "static/js/main.421305ae.js"
+    "static/js/main.1834620e.js"
   ]
 }
