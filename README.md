@@ -4,7 +4,7 @@
 
 ## 프로젝트 설명
 
-### [-> 보러가기] (https://hezelnut00.github.io/daangnmarket/)
+### -> [보러가기](https://hezelnut00.github.io/daangnmarket/)
 
 ### 기간 
 2023.12.20 ~ 진행중
