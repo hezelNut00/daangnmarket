@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "/daangnmarket/static/css/main.29b0b3ed.css",
-    "main.js": "/daangnmarket/static/js/main.c006e6f8.js",
+    "main.js": "/daangnmarket/static/js/main.99e68f03.js",
     "static/js/787.04bc8705.chunk.js": "/daangnmarket/static/js/787.04bc8705.chunk.js",
     "static/media/banner4.png": "/daangnmarket/static/media/banner4.e68d1c9ca7ec9a2f47e2.png",
     "static/media/banner2.png": "/daangnmarket/static/media/banner2.56bad504b5f68be37153.png",
     "static/media/banner1.png": "/daangnmarket/static/media/banner1.a1d085e7205b74e435da.png",
     "static/media/banner3.png": "/daangnmarket/static/media/banner3.84a80c10368fcbf9473b.png",
     "static/media/banner5.webp": "/daangnmarket/static/media/banner5.29e43b6c0034fad00308.webp",
+    "static/media/macpro.png": "/daangnmarket/static/media/macpro.30d04e7c6ba6b51a57b3.png",
+    "static/media/banner7.png": "/daangnmarket/static/media/banner7.dc66889dedb9c1297f5d.png",
     "static/media/banner6.webp": "/daangnmarket/static/media/banner6.f4dff1ede09c672e1570.webp",
     "index.html": "/daangnmarket/index.html",
     "main.29b0b3ed.css.map": "/daangnmarket/static/css/main.29b0b3ed.css.map",
-    "main.c006e6f8.js.map": "/daangnmarket/static/js/main.c006e6f8.js.map",
+    "main.99e68f03.js.map": "/daangnmarket/static/js/main.99e68f03.js.map",
     "787.04bc8705.chunk.js.map": "/daangnmarket/static/js/787.04bc8705.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29b0b3ed.css",
-    "static/js/main.c006e6f8.js"
+    "static/js/main.99e68f03.js"
   ]
 }
