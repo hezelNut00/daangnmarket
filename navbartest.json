@@ -1,0 +1,26 @@
+[
+    {
+        "id": null,
+        "title": "매트",
+        "price": 10000,
+        "adress": "경기도 하남시"
+    },
+    {
+        "id": null,
+        "title": "침대",
+        "price": 20000,
+        "adress": "경기도 하남시"
+    },
+    {
+        "id": null,
+        "title": "치킨",
+        "price": 30000,
+        "adress": "경기도 하남시"
+    },
+    {
+        "id": null,
+        "title": "신발",
+        "price": 40000,
+        "adress": "경기도 하남시"
+    }
+]
