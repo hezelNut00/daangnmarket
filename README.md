@@ -56,7 +56,7 @@
 
 23.12.26 : FleaMarket UI, Header_NavBar(수정), NearByStore UI
 
-23.12.27 : Router 404 error(수정중, 임시로 BrowserRouter -> HashRouter로 변경(추후에 다시 BrowserRoute로 변경 예정))
+23.12.27 : Router 404 error(수정중, 임시로 BrowserRouter -> HashRouter로 변경(추후에 다시 BrowserRouter로 변경 예정))
 
 23.12.28 : NearByStore UI
 
