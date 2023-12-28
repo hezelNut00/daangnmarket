@@ -50,15 +50,15 @@
 
 23.12.23 : Main banner UI
 
-23.12.24 : Login UI, Register UI
+23.12.24 : Login UI, RegisterPage UI
 
-23.12.25 : FleaMarket UI
+23.12.25 : FleaMarketPage UI
 
-23.12.26 : FleaMarket UI, Header_NavBar(수정), NearByStore UI
+23.12.26 : FleaMarketPage UI, Header_NavBar(수정), NearByStorePage UI
 
 23.12.27 : Router 404 error(수정중, 임시로 BrowserRouter -> HashRouter로 변경(추후에 다시 BrowserRouter로 변경 예정))
 
-23.12.28 : NearByStore UI
+23.12.28 : NearByStorePage UI
 
-23.12.29 : 
+23.12.29 : JobsPage UI, RealtyPage UI, CarPage UI
 
