@@ -1,24 +1,28 @@
 {
   "files": {
     "main.css": "/daangnmarket/static/css/main.29b0b3ed.css",
-    "main.js": "/daangnmarket/static/js/main.0c1442eb.js",
+    "main.js": "/daangnmarket/static/js/main.2db0b4a7.js",
     "static/js/787.04bc8705.chunk.js": "/daangnmarket/static/js/787.04bc8705.chunk.js",
     "static/media/banner4.png": "/daangnmarket/static/media/banner4.e68d1c9ca7ec9a2f47e2.png",
     "static/media/banner2.png": "/daangnmarket/static/media/banner2.56bad504b5f68be37153.png",
     "static/media/banner1.png": "/daangnmarket/static/media/banner1.a1d085e7205b74e435da.png",
     "static/media/banner3.png": "/daangnmarket/static/media/banner3.84a80c10368fcbf9473b.png",
     "static/media/banner5.webp": "/daangnmarket/static/media/banner5.29e43b6c0034fad00308.webp",
+    "static/media/banner8.png": "/daangnmarket/static/media/banner8.c75a492b72e21a4a1bb9.png",
+    "static/media/banner10.png": "/daangnmarket/static/media/banner10.958d8b9f4e02d43dc8d7.png",
+    "static/media/banner9.png": "/daangnmarket/static/media/banner9.6431cb425529f2eb9d88.png",
     "static/media/macpro.png": "/daangnmarket/static/media/macpro.30d04e7c6ba6b51a57b3.png",
     "static/media/banner7.png": "/daangnmarket/static/media/banner7.dc66889dedb9c1297f5d.png",
     "static/media/banner6.webp": "/daangnmarket/static/media/banner6.f4dff1ede09c672e1570.webp",
+    "static/media/JobsImage_02.png": "/daangnmarket/static/media/JobsImage_02.6f3947f5c80545127763.png",
     "static/media/커피.webp": "/daangnmarket/static/media/커피.ac78525417c6dc2487a4.webp",
     "index.html": "/daangnmarket/index.html",
     "main.29b0b3ed.css.map": "/daangnmarket/static/css/main.29b0b3ed.css.map",
-    "main.0c1442eb.js.map": "/daangnmarket/static/js/main.0c1442eb.js.map",
+    "main.2db0b4a7.js.map": "/daangnmarket/static/js/main.2db0b4a7.js.map",
     "787.04bc8705.chunk.js.map": "/daangnmarket/static/js/787.04bc8705.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29b0b3ed.css",
-    "static/js/main.0c1442eb.js"
+    "static/js/main.2db0b4a7.js"
   ]
 }
