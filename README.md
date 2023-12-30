@@ -63,3 +63,5 @@
 23.12.29 : JobsPage UI, RealtyPage UI, CarPage UI
 
 23.12.30 : RegisterPage UI(추가)
+
+23.12.31 : 
