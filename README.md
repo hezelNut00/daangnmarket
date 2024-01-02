@@ -64,4 +64,6 @@
 
 23.12.30 : RegisterPage UI(추가)
 
-24.01.01 : 
+24.01.01 : Register 구현
+
+24.01.02 : Register 구현
