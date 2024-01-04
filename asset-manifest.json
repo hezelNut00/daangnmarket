@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/daangnmarket/static/css/main.29b0b3ed.css",
-    "main.js": "/daangnmarket/static/js/main.052f1738.js",
+    "main.js": "/daangnmarket/static/js/main.b85de046.js",
     "static/js/787.04bc8705.chunk.js": "/daangnmarket/static/js/787.04bc8705.chunk.js",
     "static/media/banner4.png": "/daangnmarket/static/media/banner4.e68d1c9ca7ec9a2f47e2.png",
     "static/media/banner2.png": "/daangnmarket/static/media/banner2.56bad504b5f68be37153.png",
@@ -16,14 +16,15 @@
     "static/media/banner6.webp": "/daangnmarket/static/media/banner6.f4dff1ede09c672e1570.webp",
     "static/media/JobsImage_02.png": "/daangnmarket/static/media/JobsImage_02.6f3947f5c80545127763.png",
     "static/media/커피.webp": "/daangnmarket/static/media/커피.ac78525417c6dc2487a4.webp",
+    "static/media/profile_default.png": "/daangnmarket/static/media/profile_default.ef1560b6c32b03466c16.png",
     "static/media/redux.cjs": "/daangnmarket/static/media/redux.7edfc461ab353f1712ab.cjs",
     "index.html": "/daangnmarket/index.html",
     "main.29b0b3ed.css.map": "/daangnmarket/static/css/main.29b0b3ed.css.map",
-    "main.052f1738.js.map": "/daangnmarket/static/js/main.052f1738.js.map",
+    "main.b85de046.js.map": "/daangnmarket/static/js/main.b85de046.js.map",
     "787.04bc8705.chunk.js.map": "/daangnmarket/static/js/787.04bc8705.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29b0b3ed.css",
-    "static/js/main.052f1738.js"
+    "static/js/main.b85de046.js"
   ]
 }
