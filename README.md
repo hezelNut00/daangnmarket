@@ -77,3 +77,5 @@
 24.01.06 : Register 구현, Login 구현, Github Pages 렌더링 오류(.evn 때문에 오류발생 한것으로 예상)
 
 24.01.07 : Register 구현, Login 구현
+
+24.01.08 : Register 구현, Login 구현
