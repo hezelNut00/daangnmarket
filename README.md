@@ -88,4 +88,6 @@
 
 24.01.13 : Login, register 테스트
 
+24.01.14 : Login, register 테스트
+
 ##### TODO: 글쓰기 게시판(CRUD), 조회기능, 온도 기능, 상품검색범위 기능
