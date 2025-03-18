@@ -7,7 +7,7 @@
 ### -> [보러가기](https://hezelnut00.github.io/daangnmarket/)
 
 ### 기간 
-2023.12.20 ~ 진행중
+2023.12.20 ~ 24.01.26
 
 ### 기술
 ##### FrontEnd
